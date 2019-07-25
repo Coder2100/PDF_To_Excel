@@ -1,0 +1,10 @@
+conda install -c conda-forge camelot-py
+pip install camelot-py[cv]
+git clone https://www.github.com/camelot-dev/camelot
+
+ cd camelot
+
+  pip install ".[cv]"
+
+  #'Please make sure that Ghostscript is installed' error when it is already successfully installed
+#go to github :https://github.com/atlanhq/camelot/issues/184
