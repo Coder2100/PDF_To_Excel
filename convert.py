@@ -11,4 +11,4 @@ tables[0]
 tables[0].parsing_report
 
 tables[0].to_csv('foo.csv')
-tables[0].df 
+tables[0].df
